@@ -4,7 +4,7 @@ Welcome to the TicTacToe Game!
 
 ## Description
 
-A simple Tic-Tac-Toe game built with HTML, CSS, Javascript. This application allows two players to play Tic-Tac-Toe in a user-friendly interface.
+A simple Tic-Tac-Toe game built with Python. This application allows two players to play Tic-Tac-Toe in a user-friendly interface.
 
 ## Features
 
